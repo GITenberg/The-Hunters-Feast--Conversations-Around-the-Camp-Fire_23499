@@ -1,0 +1,36 @@
+_repo: The-Hunters-Feast--Conversations-Around-the-Camp-Fire_23499
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Mayne-Reid, Captain
+    - Reid, Thomas Mayne
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
+description: ''
+gutenberg_bookshelf: Animals-Wild-Trapping
+gutenberg_issued: '2007-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23499'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunters -- Fiction'
+- !lcsh 'Great Plains -- Fiction'
+- !lcsh 'Hunting stories'
+- !lcsh 'Wolves -- Fiction'
+- !lcsh 'Bears -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+title: 'The Hunters'' Feast: Conversations Around the Camp Fire'
+url: http://www.gutenberg.org/ebooks/23499
